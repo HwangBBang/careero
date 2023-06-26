@@ -46,10 +46,10 @@ Careero App 을 통해 사용자에게 필요한 로드맵을 제시한다. <br>
 ### __앱 초기화면__ 
 
 <div>
-<img width="225" alt="img0" src="https://github.com/kimjisub/careero/blob/main/docs/todo_0.PNG">
-<img width="225" alt="img1" src="https://github.com/kimjisub/careero/blob/main/docs/roadMap_0.PNG">
-<img width="225" alt="img2" src="https://github.com/kimjisub/careero/blob/main/docs/job_0.PNG">
-<img width="225" alt="img3" src="https://github.com/kimjisub/careero/blob/main/docs/class_0.PNG">
+<img width="200" alt="img0" src="https://github.com/kimjisub/careero/blob/main/docs/todo_0.PNG">
+<img width="200" alt="img1" src="https://github.com/kimjisub/careero/blob/main/docs/roadMap_0.PNG">
+<img width="200" alt="img2" src="https://github.com/kimjisub/careero/blob/main/docs/job_0.PNG">
+<img width="200" alt="img3" src="https://github.com/kimjisub/careero/blob/main/docs/class_0.PNG">
 </div>
 
 ### __관심 기술 리스트에 담기__ 
