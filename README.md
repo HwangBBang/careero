@@ -1,5 +1,7 @@
 
-# HUFSUMMER HACKATHON
+# HUFSUMMER HACKATHON[Uploading HUFSummer 해커톤_국밥과 깍두기.pdf…]()
+<img width="652" alt="스크린샷 2024-10-10 오후 11 37 18" src="https://github.com/user-attachments/assets/896ff1aa-aedb-410f-8a60-9c8d2762f1f8">
+
 ## 프로젝트명 : <img src="https://github.com/kimjisub/careero/assets/96881651/53a22da2-55ee-4f6f-94fc-2ac9e497b257" width="25">  CareeRo
 ## 팀명 : 국밥과 깍두기
 
